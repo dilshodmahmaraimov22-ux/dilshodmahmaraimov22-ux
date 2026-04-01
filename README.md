@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ## 🚀 Skills
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;JavaScript+Learner;Welcome+to+my+profile!)
