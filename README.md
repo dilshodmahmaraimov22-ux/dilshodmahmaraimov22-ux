@@ -1,23 +1,44 @@
-## Hi there 👋
+# Hi, I'm Dilshod Mahmarayimov 👋
 
-<!--
-**dilshodmahmaraimov22-ux/dilshodmahmaraimov22-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer from Tashkent, Uzbekistan
 
-Here are some ideas to get you started:
+Passionate Frontend Developer focused on building responsive, user-friendly, and modern web interfaces. I enjoy turning ideas and designs into interactive web experiences while continuously improving my skills in JavaScript and modern frontend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🚀 Skills
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+---
 
+## 🚀 About Me
 
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+* 🌍 Based in Tashkent, Uzbekistan
+* 💻 Frontend Developer
+* 🌱 Currently learning React.js and advanced JavaScript
+* 🎯 Goal: Become a professional Frontend Engineer
+* 📚 Constantly building projects and improving problem-solving skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Figma
+
+---
+
+## 📫 Contact Me
+
+📧 Email: [dilshodmahmaraimov22@gmail.com](mailto:dilshodmahmaraimov22@gmail.com)
+
+📍 Tashkent, Uzbekistan
+
+---
+
+### Thanks for visiting my profile! 🚀
