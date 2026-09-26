@@ -23,6 +23,7 @@ Passionate Frontend Developer focused on building responsive, user-friendly, and
 * HTML5
 * CSS3
 * JavaScript (ES6+)
+* REACT
 
 ### Tools
 
